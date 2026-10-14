@@ -8,3 +8,4 @@ Taller: JavaScript aplicado a React
 npm install
 npm run dev
 ```
+Mejora: seccion disponibles y some/reduce
